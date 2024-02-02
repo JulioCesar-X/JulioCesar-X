@@ -5,7 +5,7 @@ In programming I discovered my talent for automating processes and I apply it to
 Here I'll be posting various personal projects while I complete the courses I'm taking with the aim of becoming a Fullstack developer in the near future!  
 
 
-##Current skills
+## Current skills
 
 - Programming Languages { PHP; Python; C#; C++; }
 - Frameworks { Bootstrap; Laravel; }
