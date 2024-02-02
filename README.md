@@ -20,6 +20,3 @@ Here I'll be posting various personal projects while I complete the courses I'm 
 - Clean code (Robert Cecil Martin)
 - How to think like a Computer Scientist (David Beazley)
 
-## GitHub Statistics
-
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=JulioCesar-X&show_icons=true&hide_border=true)
