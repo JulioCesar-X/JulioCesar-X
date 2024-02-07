@@ -8,7 +8,7 @@ Here I'll be posting various personal projects while I complete the courses I'm 
 
 <div class="image-container">
         <a href="#">
-            <img src="https://github-readme-stats-eight-theta.vercel.app/api?usernam=JulioCesar-X&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
+            <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JulioCesar-X&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
         </a>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulioCesar-X&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
 </div>
