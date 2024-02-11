@@ -19,7 +19,7 @@ Here I'll be posting various personal projects while I complete the courses I'm 
 ## Current skills
 <p>
   <a>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JulioCesar-X&layout=compact&langs_count=8&theme=highcontrast" style="height: 10rem;">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JulioCesar-X&layout=compact&langs_count=8&theme=highcontrast" style="height: 12rem;">
   </a>
 </p>
 
