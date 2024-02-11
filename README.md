@@ -17,11 +17,11 @@ Here I'll be posting various personal projects while I complete the courses I'm 
 
 
 ## Current skills
-<p>
-  <a>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JulioCesar-X&layout=compact&langs_count=8&theme=highcontrast" style="height: 12rem;">
+<div>
+  <a href="https://github.com/JulioCesar-X">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesar-X&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages" style="height: 150px;">
   </a>
-</p>
+</div>
 
 - Frameworks { Bootstrap; Laravel; }
 
