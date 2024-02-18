@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JulioCesar-X&style=for-the-badge&color=orange&label=Views" alt="Counter" style="border-radius: 20px;">
+</p>
 ### Hi there 👋
 
 I'm Júlio César. Yes, just like the Roman emperor! Every day it feels like I'm ruling an empire (my life), but I'm just a humble student who has learned to be self-taught and to seek knowledge in various areas, programming, philosophy, physics, mathematics, personal development... in short, I love studying. 
