@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JulioCesar-X&style=for-the-badge&color=orange&label=Views" alt="Counter" style="border-radius: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=JulioCesar-X&style=for-the-badge&color=yellow&label=Views" alt="Counter" style="border-radius: 20px;">
 </p>
 
 ### Hi there 👋
