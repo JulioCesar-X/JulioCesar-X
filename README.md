@@ -23,7 +23,7 @@ Here I'll be posting various personal projects while I complete the courses I'm 
 ## Current skills
 <div>
   <a href="https://github.com/JulioCesar-X">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesar-X&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages" style="height: 250px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesar-X&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages" style="height: 270px;">
   </a>
 </div>
 
