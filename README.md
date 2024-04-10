@@ -21,17 +21,39 @@ Here I'll be posting various personal projects while I complete the courses I'm 
 
 
 ## Current skills
-<div>
-  <a href="https://github.com/JulioCesar-X">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesar-X&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages" style="height: 370px;">
-  </a>
+<div style="display: flex; justify-content: center; align-items: flex-start;">
+  <div style="text-align: center;">
+    <a href="https://github.com/JulioCesar-X">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesar-X&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages" style="height: 300px;">
+    </a>
+  </div>
 </div>
 
-- Frameworks { Bootstrap; Laravel; }
-
-- Other relevant skills:  Modeling skills { Flow Diagrams; UML (Unified Modeling Language); }
-
-
+<div style="display: flex; flex-direction: column-reverse;">
+  <div style="display: flex; justify-content: flex-end;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="30" alt="C# logo" /><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" alt="PHP logo" /><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="Python logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" /><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="Microsoft SQL Server logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="30" alt="Windows logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="30" alt="Angular logo" /><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" height="30" alt="Notion logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="30" alt="Laravel logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" alt="HTML logo" /><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" height="30" alt=".NET Core logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" height="30" alt="Docker logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="30" alt="Postman logo" /><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30" alt="Figma logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" alt="CSS logo" /><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio logo" /><br>
+  </div>
+</div>
 ## Suggested books for other self-taught people
 
 - Atomic habits (James Clear)
