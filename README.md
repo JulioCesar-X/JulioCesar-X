@@ -54,6 +54,7 @@ Here I'll be posting various personal projects while I complete the courses I'm 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio logo" /><br>
   </div>
 </div>
+
 ## Suggested books for other self-taught people
 
 - Atomic habits (James Clear)
