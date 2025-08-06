@@ -4,9 +4,21 @@
 
 # Hi there! 👋 Welcome to my world of programming! 
 
-I'm **Júlio César** – Yes, just like the Roman emperor! 🏛️ Every day, I build my own empire of knowledge and technology. I'm a **self-taught** developer who loves **automation**, **problem-solving**, and **continuous learning** in various areas: **programming, philosophy, physics, mathematics, and personal development**. My goal? **Becoming a Fullstack Developer!** 🚀
+I'm Júlio César — yes, like the Roman emperor 🏛️ — but instead of conquering lands, I'm building knowledge one commit at a time.
 
-Here, you’ll find my personal projects as I **explore new technologies and grow every day**! 💡
+I'm a **self-taught and professionally trained developer** passionate about solving problems through code.  
+Over the past few years, I’ve been building strong foundations in two very different areas:
+
+🔧 **Embedded Systems**
+💻 **Fullstack Web Development**
+
+Outside of tech, I explore **philosophy**, **physics**, **mathematics**, and **personal development** — because learning never stops.  
+My journey started with curiosity and self-learning, and today I’m continuing it with real-world projects, research.
+
+🚀 My mission: Keep growing, keep building, and become a bridge between hardware and software.
+
+Here on GitHub, you’ll find a bit of everything: experiments, real-world tools, and a trail of everything I’ve been learning.  
+Let’s connect and build something awesome together!
 
 ---
 
