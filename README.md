@@ -41,41 +41,38 @@ Let’s connect and build something awesome together!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesar-X&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages" height="200px">
 </p>
 
-### 🔧 Programming Languages & Frameworks
+### 🔧 Programming Languages
 
 <p align="center">
-  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="C# logo"/>
+  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C logo"/>
   <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"/>
-  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"/>
   <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo"/>
+  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"/>
   <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python logo"/>
-  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" alt="PHP logo"/>
 </p>
 
-### 💻 Frontend & Styling
+### 💻 Frontend & UI
 
 <p align="center">
+  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo"/>
   <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React logo"/>
-  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo"/>
-  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" alt="Redux logo"/>
-  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" alt="SCSS logo"/>
+  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="40" alt="Figma logo"/>
 </p>
 
-### 🔧 Backend & Databases
+
+### 🗄️ Databases & Backend
 
 <p align="center">
   <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"/>
   <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo"/>
-  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo"/>
 </p>
 
-### 🛠 DevOps & Tools
+### ⚙️ DevOps & Tools
 
 <p align="center">
-  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" height="40" alt="Docker logo"/>
-  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="GitHub logo"/>
-  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins logo"/>
-  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM logo"/>
+  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" alt="Docker logo"/>
+  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git logo"/>
+  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo"/>
 </p>
 
 ### 🖥️ Operating Systems
@@ -85,6 +82,7 @@ Let’s connect and build something awesome together!
   <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" alt="Windows logo"/>
   <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" height="40" alt="Arch Linux logo"/>
 </p>
+
 
 ---
 
